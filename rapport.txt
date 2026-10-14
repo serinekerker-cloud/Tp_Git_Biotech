@@ -4,3 +4,6 @@ GitHub héberge les dépôts Git en ligne et permet le partage du code.
 Dans ce TP, j'ai appris à cloner un dépôt, créer un fichier, faire un commit et un push.
 J'ai aussi appris à créer une branche pour séparer le travail en cours.
 Git est donc un outil essentiel pour organiser et sauvegarder un travail scientifique.
+
+Mon projet : un programme Python pour analyser des séquences d'ADN (calcul du pourcentage de GC et recherche de motifs).
+J'utiliserai Git pour suivre l'évolution du code : la branche main pour la version stable et la branche develop pour ajouter de nouvelles fonctionnalités.
