@@ -1,0 +1,6 @@
+Git est un système de contrôle de version qui permet de suivre l'historique d'un projet.
+Il facilite le travail collaboratif et permet de revenir à une version précédente.
+GitHub héberge les dépôts Git en ligne et permet le partage du code.
+Dans ce TP, j'ai appris à cloner un dépôt, créer un fichier, faire un commit et un push.
+J'ai aussi appris à créer une branche pour séparer le travail en cours.
+Git est donc un outil essentiel pour organiser et sauvegarder un travail scientifique.
